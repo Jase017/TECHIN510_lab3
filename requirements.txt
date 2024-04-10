@@ -1,0 +1,5 @@
+streamlit
+psycopg2-binary
+pydantic==1.10.14
+streamlit-pydantic
+python-dotenv
